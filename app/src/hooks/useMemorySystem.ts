@@ -94,6 +94,13 @@ interface SystemState {
   memoryStates: WordMemoryState[];
   reviewLogs: ReviewLog[];
   dailyTasks: Record<string, DailyTask>;
+  sessionProgress?: {
+    currentIndex: number;
+    wordIds: string[];
+    studyType: 'all' | 'new' | 'review' | 'strengthening';
+    startTime: number;
+    completedWordIds: string[];
+  };
 }
 
 export function useMemorySystem() {
@@ -116,6 +123,7 @@ export function useMemorySystem() {
       memoryStates: [],
       reviewLogs: [],
       dailyTasks: {},
+      sessionProgress: undefined,
     };
   };
 
@@ -174,7 +182,7 @@ export function useMemorySystem() {
   }, [updateState]);
 
   // 获取今日任务（会创建新任务）
-  const getTodayTask = useCallback((): DailyTask => {
+  const getTodayTask = useCallback((dailyNewWordsLimit: number = 20): DailyTask => {
     const today = getTodayString();
     
     let task: DailyTask | undefined;
@@ -199,8 +207,8 @@ export function useMemorySystem() {
         else if (ms.level !== 'new' && ms.level !== 'mastered' && isDue(ms.nextReviewAt)) {
           reviewWords.push(ms.wordId);
         }
-        // 新单词（每天最多20个）
-        else if (ms.level === 'new' && newWords.length < 20) {
+        // 新单词（每天最多指定数量）
+        else if (ms.level === 'new' && newWords.length < dailyNewWordsLimit) {
           newWords.push(ms.wordId);
         }
       });
@@ -225,7 +233,7 @@ export function useMemorySystem() {
   }, [updateState]);
 
   // 获取今日任务（不修改状态）
-  const peekTodayTask = useCallback((): DailyTask => {
+  const peekTodayTask = useCallback((dailyNewWordsLimit: number = 20): DailyTask => {
     const today = getTodayString();
     const task = state.dailyTasks[today];
     if (task) return task;
@@ -240,7 +248,7 @@ export function useMemorySystem() {
         strengtheningWords.push(ms.wordId);
       } else if (ms.level !== 'new' && ms.level !== 'mastered' && isDue(ms.nextReviewAt)) {
         reviewWords.push(ms.wordId);
-      } else if (ms.level === 'new' && newWords.length < 20) {
+      } else if (ms.level === 'new' && newWords.length < dailyNewWordsLimit) {
         newWords.push(ms.wordId);
       }
     });
@@ -449,6 +457,42 @@ export function useMemorySystem() {
     }));
   }, [updateState]);
 
+  // 编辑单词
+  const editWord = useCallback((updatedWord: Word) => {
+    updateState((prev) => {
+      const wordIndex = prev.words.findIndex((w) => w.id === updatedWord.id);
+      if (wordIndex === -1) return prev;
+
+      const newWords = [...prev.words];
+      newWords[wordIndex] = updatedWord;
+
+      return {
+        ...prev,
+        words: newWords,
+      };
+    });
+  }, [updateState]);
+
+  // 删除单词
+  const deleteWord = useCallback((wordId: string) => {
+    updateState((prev) => ({
+      words: prev.words.filter((w) => w.id !== wordId),
+      memoryStates: prev.memoryStates.filter((ms) => ms.wordId !== wordId),
+      reviewLogs: prev.reviewLogs.filter((log) => log.wordId !== wordId),
+      dailyTasks: Object.fromEntries(
+        Object.entries(prev.dailyTasks).map(([date, task]) => [
+          date,
+          {
+            ...task,
+            newWords: task.newWords.filter((id) => id !== wordId),
+            reviewWords: task.reviewWords.filter((id) => id !== wordId),
+            strengtheningWords: task.strengtheningWords.filter((id) => id !== wordId),
+          },
+        ])
+      ),
+    }));
+  }, [updateState]);
+
   // 导出数据
   const exportData = useCallback(() => {
     return JSON.stringify(state, null, 2);
@@ -465,9 +509,33 @@ export function useMemorySystem() {
     }
   }, [updateState]);
 
+  // 保存学习进度
+  const saveSessionProgress = useCallback((progress) => {
+    updateState((prev) => ({
+      ...prev,
+      sessionProgress: progress,
+    }));
+  }, [updateState]);
+
+  // 清除学习进度
+  const clearSessionProgress = useCallback(() => {
+    updateState((prev) => ({
+      ...prev,
+      sessionProgress: undefined,
+    }));
+  }, [updateState]);
+
+  // 获取学习进度
+  const getSessionProgress = useCallback(() => {
+    return state.sessionProgress;
+  }, [state.sessionProgress]);
+
   return {
     words: state.words,
     memoryStates: state.memoryStates,
+    reviewLogs: state.reviewLogs,
+    dailyTasks: state.dailyTasks,
+    sessionProgress: state.sessionProgress,
     importWords,
     getTodayTask,
     peekTodayTask,
@@ -477,6 +545,11 @@ export function useMemorySystem() {
     getMemoryState,
     getHighForgottenWords,
     clearAll,
+    editWord,
+    deleteWord,
+    saveSessionProgress,
+    clearSessionProgress,
+    getSessionProgress,
     exportData,
     importData,
   };

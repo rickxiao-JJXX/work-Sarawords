@@ -11,8 +11,21 @@ interface StudySessionProps {
   memoryStates: WordMemoryState[];
   onReview: (wordId: string, result: ReviewResult) => void;
   onComplete: () => void;
+  onSaveProgress?: (progress: {
+    currentIndex: number;
+    wordIds: string[];
+    studyType: 'all' | 'new' | 'review' | 'strengthening';
+    startTime: number;
+    completedWordIds: string[];
+  }) => void;
+  onClearProgress?: () => void;
   title: string;
   soundEnabled?: boolean;
+  studyType?: 'all' | 'new' | 'review' | 'strengthening';
+  initialProgress?: {
+    currentIndex: number;
+    completedWordIds: string[];
+  };
 }
 
 type StudyItem = {
@@ -26,12 +39,18 @@ export function StudySession({
   memoryStates,
   onReview,
   onComplete,
+  onSaveProgress,
+  onClearProgress,
   title,
   soundEnabled = true,
+  studyType = 'all',
+  initialProgress,
 }: StudySessionProps) {
   const [showMeaning, setShowMeaning] = useState(false);
-  const [currentIndex, setCurrentIndex] = useState(0);
+  const [currentIndex, setCurrentIndex] = useState(initialProgress?.currentIndex || 0);
   const [sessionComplete, setSessionComplete] = useState(false);
+  const [completedWordIds, setCompletedWordIds] = useState<string[]>(initialProgress?.completedWordIds || []);
+  const [startTime] = useState(Date.now());
 
   const { playKnown, playFuzzy, playForgotten, playComplete } = useSound(soundEnabled);
 
@@ -52,6 +71,19 @@ export function StudySession({
     })
     .filter((item): item is StudyItem => item !== null);
 
+  // 自动保存进度
+  useEffect(() => {
+    if (onSaveProgress && !sessionComplete) {
+      onSaveProgress({
+        currentIndex,
+        wordIds: studyList.map((item) => item.word.id),
+        studyType,
+        startTime,
+        completedWordIds,
+      });
+    }
+  }, [currentIndex, completedWordIds, studyList, studyType, startTime, onSaveProgress, sessionComplete]);
+
   const currentItem = studyList[currentIndex];
   const progress = studyList.length > 0 ? ((currentIndex) / studyList.length) * 100 : 0;
 
@@ -68,6 +100,7 @@ export function StudySession({
       }
 
       onReview(currentItem.word.id, result);
+      setCompletedWordIds((prev) => [...prev, currentItem.word.id]);
       setShowMeaning(false);
 
       if (currentIndex < studyList.length - 1) {
@@ -75,9 +108,12 @@ export function StudySession({
       } else {
         setSessionComplete(true);
         playComplete();
+        if (onClearProgress) {
+          onClearProgress();
+        }
       }
     },
-    [currentIndex, currentItem, onReview, studyList.length, playKnown, playFuzzy, playForgotten, playComplete]
+    [currentIndex, currentItem, onReview, studyList.length, playKnown, playFuzzy, playForgotten, playComplete, onClearProgress]
   );
 
   const handleRestart = () => {

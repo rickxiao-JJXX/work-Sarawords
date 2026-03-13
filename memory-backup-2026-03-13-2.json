@@ -1,0 +1,8422 @@
+{
+  "words": [
+    {
+      "id": "88wfa7o",
+      "word": "compromise",
+      "meaning": "n./v.妥协；让步",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "s64ymfh",
+      "word": "comprise",
+      "meaning": "v.包含；组成",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "r5f1ykq",
+      "word": "force",
+      "meaning": "n.势力；部队",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "9vrpwfg",
+      "word": "count",
+      "meaning": "v.重要；认为",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "6oogjfo",
+      "word": "count",
+      "meaning": "n.论点；总数；记录",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "v8kqyvp",
+      "word": "couplet",
+      "meaning": "n.对联",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "dnl5has",
+      "word": "course",
+      "meaning": "n.课程；道路；过程；方向",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "2ztkje9",
+      "word": "cover",
+      "meaning": "v.报道；涉及；覆盖；掩护",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "aebxmae",
+      "word": "craft",
+      "meaning": "n.工艺；诡计；飞行器",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "co025lw",
+      "word": "credit",
+      "meaning": "n.赞扬",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "jsck6nw",
+      "word": "cease",
+      "meaning": "n./v.结束；停止",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "pniheg8",
+      "word": "degree",
+      "meaning": "n.程度；学位；次数",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "laf4fm4",
+      "word": "charge",
+      "meaning": "v.充电；控告；收费",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "hd2xkio",
+      "word": "chase",
+      "meaning": "v.追逐",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "7p4aue3",
+      "word": "cherish",
+      "meaning": "v.珍惜",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "0rvytk5",
+      "word": "circulation",
+      "meaning": "n.循环；传播",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "dhz38xf",
+      "word": "circus",
+      "meaning": "n.马戏团",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "zliaqx6",
+      "word": "claim",
+      "meaning": "v.声称；断言；索要",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "r9fmo13",
+      "word": "class",
+      "meaning": "n.阶层；种类；风度；级别",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "8vcfss4",
+      "word": "clear",
+      "meaning": "v.清除；放晴",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "pidr311",
+      "word": "skeleton",
+      "meaning": "n.骨骼；梗概；框架；基本的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "4pp0kyj",
+      "word": "cloud",
+      "meaning": "v.模糊",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "oo3wtiv",
+      "word": "could",
+      "meaning": "v.能够",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "gdub6my",
+      "word": "spill",
+      "meaning": "v.洒出；倾泻",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "w5mizf3",
+      "word": "coach",
+      "meaning": "n.车厢；教练",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "86e4urz",
+      "word": "coach",
+      "meaning": "v.指导",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "snjwgsu",
+      "word": "coin",
+      "meaning": "n.硬币",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "rcmzwxm",
+      "word": "coin",
+      "meaning": "v.创造新词",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "3602v4l",
+      "word": "comeback",
+      "meaning": "n.恢复；返回；逗笑；责怪",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "w0o2qci",
+      "word": "tragedy",
+      "meaning": "n.悲剧",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "16rj3wd",
+      "word": "command",
+      "meaning": "v.命令；指挥",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "rgep7so",
+      "word": "commission",
+      "meaning": "n.委员会；佣金",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "0pfwy7y",
+      "word": "commission",
+      "meaning": "v.任命",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "in26k6d",
+      "word": "compensate",
+      "meaning": "v.赔偿；弥补",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "3en9e8g",
+      "word": "complex",
+      "meaning": "n.复合体",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "220ubdw",
+      "word": "composition",
+      "meaning": "n.作文",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "3iwdpdg",
+      "word": "fancy",
+      "meaning": "n.幻想",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "aszwa29",
+      "word": "disproved",
+      "meaning": "adj.反对的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ltsozeq",
+      "word": "wild",
+      "meaning": "adj.狂野的；大胆的；轻浮的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "joz0zx2",
+      "word": "eternally",
+      "meaning": "adv.永恒地；不朽地；总是",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "vynuqwd",
+      "word": "inflating",
+      "meaning": "adj.膨胀的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "1noj472",
+      "word": "secure",
+      "meaning": "v.获得",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "v2uew07",
+      "word": "land",
+      "meaning": "v.着陆",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "mtnd49v",
+      "word": "source",
+      "meaning": "v.寻找来源",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "e29bmu8",
+      "word": "tablet",
+      "meaning": "n.药片；匾",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ed44lu1",
+      "word": "celebration",
+      "meaning": "n.颂扬；庆祝",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "6bc553x",
+      "word": "commute",
+      "meaning": "n.通勤",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "bmvtba4",
+      "word": "undermine",
+      "meaning": "v.破坏",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "dzo9uvn",
+      "word": "accumulate",
+      "meaning": "v.积累",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ojq5oxt",
+      "word": "setback",
+      "meaning": "n.障碍",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ga9yq4v",
+      "word": "adversity",
+      "meaning": "n.困境",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "odgeaep",
+      "word": "observe",
+      "meaning": "v.评论；庆祝",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "jptl14h",
+      "word": "mark",
+      "meaning": "v.庆祝；纪念",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "v28z6ao",
+      "word": "boss",
+      "meaning": "v.对...发号施令",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "9dtvtw1",
+      "word": "bossy",
+      "meaning": "adj.霸道的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "b68u4xm",
+      "word": "bound",
+      "meaning": "v.跳跃",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "j69qaih",
+      "word": "bound",
+      "meaning": "adj.驶往...的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "8hpfgf0",
+      "word": "gap",
+      "meaning": "n.缺口；空白；间隔",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "pav48q8",
+      "word": "appreciation",
+      "meaning": "n.欣赏；感激；理解；喜爱",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "uemwbuk",
+      "word": "button",
+      "meaning": "n.纽扣",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "btzf4f0",
+      "word": "button",
+      "meaning": "v.扣紧",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "igskrcu",
+      "word": "shortcut",
+      "meaning": "n.捷径",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "4pmkf9y",
+      "word": "disclose",
+      "meaning": "v.揭露",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "hy4anrv",
+      "word": "unveil",
+      "meaning": "v.揭露",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "s0hyvdc",
+      "word": "receptor",
+      "meaning": "n.受体",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "h18s5b2",
+      "word": "indignation",
+      "meaning": "n.愤怒",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "psht7q3",
+      "word": "bear",
+      "meaning": "v.承载；携带",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "lj5aq0t",
+      "word": "interpretation",
+      "meaning": "n.阐释",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "6h55sj9",
+      "word": "implant",
+      "meaning": "v.植入",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "gbq8nhh",
+      "word": "shaky",
+      "meaning": "v.颤抖",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "slb0ogi",
+      "word": "tremble",
+      "meaning": "v.颤抖",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ezpwag2",
+      "word": "shiver",
+      "meaning": "v.颤抖",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "8apmk19",
+      "word": "impressive",
+      "meaning": "adj.印象深刻的；令人敬佩的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ww4lf0l",
+      "word": "dump",
+      "meaning": "v.倾倒",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "floskzy",
+      "word": "controversial",
+      "meaning": "adj.有争议的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "dsy5s7b",
+      "word": "contain",
+      "meaning": "v.抑制；克制",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "38hiajw",
+      "word": "conspiracy",
+      "meaning": "n.阴谋",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "oktlqpa",
+      "word": "rival",
+      "meaning": "n.竞争对手",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ksfi8gz",
+      "word": "miserable",
+      "meaning": "adj.痛苦的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "o6vu3y7",
+      "word": "compatible",
+      "meaning": "adj.与...一致的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "sfws9rh",
+      "word": "fruitful",
+      "meaning": "adj.富有成效的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "4n5yemc",
+      "word": "ongoing",
+      "meaning": "adj.持续存在的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "7zw4l39",
+      "word": "envision",
+      "meaning": "v.幻想；设想",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "hbcfn05",
+      "word": "considerate",
+      "meaning": "adj.体贴的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "1m6hp7t",
+      "word": "considerable",
+      "meaning": "adj.大量的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "3jsjvpz",
+      "word": "adept",
+      "meaning": "adj./n.熟练",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "vzp2gel",
+      "word": "far-out",
+      "meaning": "adj.走在时代前端的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "501py8o",
+      "word": "cosmic",
+      "meaning": "adj.宇宙的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "n35ztgo",
+      "word": "unresolved",
+      "meaning": "adj.未解决的；不果断的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "hpcetjf",
+      "word": "kindle",
+      "meaning": "v.点燃",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "y4u2ggn",
+      "word": "enlighten",
+      "meaning": "v.启迪；指导",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "7ntbidj",
+      "word": "impressive",
+      "meaning": "adj.令人敬佩的；印象深刻的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "kn1yt7e",
+      "word": "sensible",
+      "meaning": "adj.理智的；合理的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "sf4aepq",
+      "word": "informed",
+      "meaning": "adj.明智的；有见识的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "bobn7hk",
+      "word": "captivating",
+      "meaning": "adj.迷人的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "79z5veb",
+      "word": "resonate",
+      "meaning": "v.产生共鸣",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ycmyy18",
+      "word": "still",
+      "meaning": "adj./adv.静止的；宁静的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "8lrb6fw",
+      "word": "brisk",
+      "meaning": "adj.轻快的；明亮的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "9zqsrcs",
+      "word": "heave",
+      "meaning": "v.起伏",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "bxkjcoa",
+      "word": "exclaim",
+      "meaning": "v.大喊大叫",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "bdvodvp",
+      "word": "frustration",
+      "meaning": "n.沮丧",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "v072jmb",
+      "word": "intimate",
+      "meaning": "adj.亲密的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "6yaa74o",
+      "word": "setback",
+      "meaning": "n.挫折",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "jiclxcj",
+      "word": "compromise",
+      "meaning": "v.妥协",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "u0vbfa2",
+      "word": "sacrifice",
+      "meaning": "v.牺牲",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "qkyakxo",
+      "word": "lever",
+      "meaning": "n.杠杆",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "gcajy3m",
+      "word": "leverage",
+      "meaning": "n.影响力；手段",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "u3tqa77",
+      "word": "literacy",
+      "meaning": "n.素养",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "isqy94p",
+      "word": "literally",
+      "meaning": "adv.字面的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "2hpuzu3",
+      "word": "intervention",
+      "meaning": "n.干扰",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "lbaikpq",
+      "word": "filter",
+      "meaning": "n.滤镜",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ao9fuiq",
+      "word": "prolong",
+      "meaning": "v.延长",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "kfhb4t0",
+      "word": "workaround",
+      "meaning": "n.应急方法",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "c9ynqnk",
+      "word": "distraction",
+      "meaning": "n.分散",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "m4v49qw",
+      "word": "protest",
+      "meaning": "v.抗议",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "wsy31ua",
+      "word": "sacrifice",
+      "meaning": "v.牺牲",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "7uj91im",
+      "word": "pause",
+      "meaning": "v.停止",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "cvl3qoi",
+      "word": "warrior",
+      "meaning": "n.勇士",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "6yinnuh",
+      "word": "overview",
+      "meaning": "n.概述",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "b6yw26r",
+      "word": "rigorous",
+      "meaning": "adj.严格的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ns0efa4",
+      "word": "realm",
+      "meaning": "n.领域；范围",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "3adxmzt",
+      "word": "replica",
+      "meaning": "n.复制品",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "jecsg62",
+      "word": "transition",
+      "meaning": "n.转变",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "sycb33d",
+      "word": "faculty",
+      "meaning": "n.教职工",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "3y0igds",
+      "word": "hybrid",
+      "meaning": "adj.混合的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "tdpghbv",
+      "word": "mimic",
+      "meaning": "v.模仿",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "e85tvdl",
+      "word": "imitate",
+      "meaning": "v.模仿",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "przl3a0",
+      "word": "simulate",
+      "meaning": "v.模拟",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "dmgh1zn",
+      "word": "wrinkle",
+      "meaning": "n.小困难",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "t9bsa8u",
+      "word": "breed",
+      "meaning": "v.繁殖",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "de9pqgb",
+      "word": "reproduction",
+      "meaning": "n.繁殖",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "pgy4rw4",
+      "word": "withdraw",
+      "meaning": "v.撤回；取钱",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "fk3v88b",
+      "word": "cause",
+      "meaning": "n.事业",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "vkncx1r",
+      "word": "screen",
+      "meaning": "v.筛查",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "oe0j8vv",
+      "word": "fault",
+      "meaning": "v.指责；挑剔",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "fn8xxyh",
+      "word": "overturn",
+      "meaning": "v.推翻",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "erj3hio",
+      "word": "superficial",
+      "meaning": "adj.浅薄的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "luu09c7",
+      "word": "lens",
+      "meaning": "n.镜头",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "s7v9dbc",
+      "word": "characteristic",
+      "meaning": "n.特征",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "j1n9leu",
+      "word": "talkative",
+      "meaning": "adj.健谈的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "q30bd9n",
+      "word": "collaborate",
+      "meaning": "v.合作",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "uzofzvl",
+      "word": "refine",
+      "meaning": "v.改进",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "akqtdqo",
+      "word": "reinforce",
+      "meaning": "v.加固",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "79qix0e",
+      "word": "leverage",
+      "meaning": "v.充分利用",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "zs7u4o8",
+      "word": "compassionate",
+      "meaning": "n.同情",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "b0jojo4",
+      "word": "miserable",
+      "meaning": "adj.悲惨的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "r0xq21o",
+      "word": "sweeping",
+      "meaning": "adj.范围广的；影响大的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "xy4d3wp",
+      "word": "elaboration",
+      "meaning": "n.细化",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ljlb1ay",
+      "word": "lexical",
+      "meaning": "adj.语言的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "dedxyn3",
+      "word": "restore",
+      "meaning": "v.恢复",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "7txjp2y",
+      "word": "mind-blowing",
+      "meaning": "adj.惊人的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "4i5vhu7",
+      "word": "invest",
+      "meaning": "v.投资",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "r93uh95",
+      "word": "shrng",
+      "meaning": "v.耸肩",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "zcpv6tp",
+      "word": "spectacle",
+      "meaning": "n.壮观景象",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "5529c27",
+      "word": "marvel",
+      "meaning": "v.对...感到惊异",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "wkvnoav",
+      "word": "venture",
+      "meaning": "v.冒险",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "y6b97xv",
+      "word": "venture",
+      "meaning": "n.风险项目",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "f3hnc28",
+      "word": "midst",
+      "meaning": "n.中间",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "qy3h8yj",
+      "word": "bustling",
+      "meaning": "adj.忙乱的；喧嚣的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "5l4dz4n",
+      "word": "hustling",
+      "meaning": "v.忙碌",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "201r8e0",
+      "word": "rustling",
+      "meaning": "v.沙沙作响",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "e6fwzkn",
+      "word": "diligence",
+      "meaning": "n.勤奋",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "pe0o0qo",
+      "word": "perseverance",
+      "meaning": "n.坚持不懈",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "o9ctwo0",
+      "word": "endure",
+      "meaning": "v.忍受",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "gtkanne",
+      "word": "deliberately",
+      "meaning": "adv.故意地",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "xbwc619",
+      "word": "deceive",
+      "meaning": "v.欺骗",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ihs07f4",
+      "word": "solely",
+      "meaning": "adv.单独地",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ozhhs0x",
+      "word": "decisive",
+      "meaning": "adj.果敢的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ynd8nzi",
+      "word": "adversity",
+      "meaning": "n.困境",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "rc94tdj",
+      "word": "grin",
+      "meaning": "n.咧嘴笑",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ax7vvha",
+      "word": "stereotype",
+      "meaning": "n.刻板印象",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "vtbynf8",
+      "word": "generalization",
+      "meaning": "n.普遍化",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "tjmdf97",
+      "word": "effect",
+      "meaning": "v.引出；实现",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "no4kaox",
+      "word": "effect",
+      "meaning": "n.影响",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "o04qot3",
+      "word": "enrollment",
+      "meaning": "n.登记；注册",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "pb4ik0x",
+      "word": "moderation",
+      "meaning": "n.适度",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "iqa1c1s",
+      "word": "therein",
+      "meaning": "adv.在其中；在那里",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "dpd68h8",
+      "word": "phobia",
+      "meaning": "n.恐惧症",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "azkmyc4",
+      "word": "panick",
+      "meaning": "v./n.恐慌",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "60n22nt",
+      "word": "saliency",
+      "meaning": "n.显著；特点；凸起",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "e023loh",
+      "word": "alter",
+      "meaning": "v.改变",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ekam0gz",
+      "word": "dedicate",
+      "meaning": "v.投身；奉献",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "93nadu9",
+      "word": "savor",
+      "meaning": "v.体会",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "5w8vnpe",
+      "word": "unsettled",
+      "meaning": "adj.不安的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "sysz858",
+      "word": "exhilarated",
+      "meaning": "adj.兴奋的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "weqo25s",
+      "word": "packed-out",
+      "meaning": "adj.人满为患的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "e2fn4qu",
+      "word": "solitary",
+      "meaning": "adj.单独的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "0uaqldh",
+      "word": "isolation",
+      "meaning": "n.孤立",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "2lrfy0z",
+      "word": "insularity",
+      "meaning": "n.孤立",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "bk3wahm",
+      "word": "narcissistic",
+      "meaning": "adj.自恋的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "jb2bpjr",
+      "word": "spectator",
+      "meaning": "n.观众",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "2lxgm8s",
+      "word": "interception",
+      "meaning": "n.内在感受",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "r9whqtz",
+      "word": "partial",
+      "meaning": "adj.片面的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "1wycyt0",
+      "word": "insightful",
+      "meaning": "adj.有洞察力的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "t4xz9uo",
+      "word": "detain",
+      "meaning": "v.远离",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "gc0wvja",
+      "word": "vibrant",
+      "meaning": "adj.充满活力的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "cvtp5td",
+      "word": "better",
+      "meaning": "v.改善",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "dzham0n",
+      "word": "prevailing",
+      "meaning": "adj.流行的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "7cau59o",
+      "word": "demanding",
+      "meaning": "adj.苛刻的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "0gwj69u",
+      "word": "depleted",
+      "meaning": "adj.不足的；耗尽的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "htzq2qi",
+      "word": "consolidate",
+      "meaning": "v.合并；使加强；使巩固",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "qzxpuxn",
+      "word": "taxing",
+      "meaning": "adj.费力的；繁重的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "2kgnpxw",
+      "word": "miracle",
+      "meaning": "n.奇迹",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "3p8vppk",
+      "word": "propel",
+      "meaning": "v.推进；驱动",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "cp7i6ft",
+      "word": "ego",
+      "meaning": "n.自负；自我；自尊",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "w2vzv13",
+      "word": "induce",
+      "meaning": "v.引发；诱发",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "v99bwce",
+      "word": "seduce",
+      "meaning": "v.勾引",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "dp67jzr",
+      "word": "feasible",
+      "meaning": "adj.可行的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "c978ap0",
+      "word": "instinctively",
+      "meaning": "adv.本能地",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "77w2akf",
+      "word": "blur",
+      "meaning": "adj.模糊的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "hrg84ge",
+      "word": "vague",
+      "meaning": "adj.不清楚的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "lxhedlz",
+      "word": "consume",
+      "meaning": "v.消耗；烧毁；使沉迷",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "8pnx278",
+      "word": "alternative",
+      "meaning": "adj.可替代的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "dwfdfx3",
+      "word": "secure",
+      "meaning": "v.获得；保证",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "w3nneia",
+      "word": "intimate",
+      "meaning": "adj.亲密的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "3fakcfw",
+      "word": "readily",
+      "meaning": "adv.乐意地；错误地",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "igrtezw",
+      "word": "unwavering",
+      "meaning": "adj.坚定的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "yp9mrx9",
+      "word": "fine",
+      "meaning": "adj.微小的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "65ygpqm",
+      "word": "fine",
+      "meaning": "n.罚金",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "wa8f44a",
+      "word": "accessible",
+      "meaning": "adj.易接近的；随和的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "4ljxkx9",
+      "word": "prompt",
+      "meaning": "v.提高",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "p7y3nxn",
+      "word": "implication",
+      "meaning": "n.影响",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "se322ww",
+      "word": "zodiac",
+      "meaning": "n.生肖",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "qi8dl19",
+      "word": "recollect",
+      "meaning": "v.回忆；想起",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "2m96utj",
+      "word": "sufficient",
+      "meaning": "adj.充足的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "2skw632",
+      "word": "compress",
+      "meaning": "v.压缩",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "il1w9zo",
+      "word": "charge",
+      "meaning": "v.收费",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "rdew2nk",
+      "word": "charge",
+      "meaning": "n.充电；掌管",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "m9l3vco",
+      "word": "upsetting",
+      "meaning": "adj.令人心烦意乱的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "s7h2v3f",
+      "word": "suppress",
+      "meaning": "v.镇压；抑制；封锁；忍住",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "rhi8pgb",
+      "word": "issue",
+      "meaning": "v.发表",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ij17j0n",
+      "word": "issue",
+      "meaning": "n.问题；事件；期刊号",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "mu4hp7m",
+      "word": "oppress",
+      "meaning": "v.压抑；压迫",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "q5a2ewq",
+      "word": "capital",
+      "meaning": "n.资金；首都；大写字母",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "loh2qqm",
+      "word": "contain",
+      "meaning": "v.抑制",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ilite2z",
+      "word": "investigate",
+      "meaning": "v.调查；研究",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "c0h4f50",
+      "word": "withdraw",
+      "meaning": "v.撤回",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "otm23fm",
+      "word": "willpower",
+      "meaning": "n.意志力",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "uvr74su",
+      "word": "bemused",
+      "meaning": "adj.疑惑的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "r5i4rzy",
+      "word": "temptation",
+      "meaning": "n.诱惑物",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "bexsxum",
+      "word": "memo",
+      "meaning": "n.备忘录",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "cc1kfdb",
+      "word": "override",
+      "meaning": "v.推翻；否决；制服",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "xje19ac",
+      "word": "mammal",
+      "meaning": "n.哺乳动物",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "kzrxz2q",
+      "word": "streamline",
+      "meaning": "v.简化",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "dxg2eas",
+      "word": "rollercoaster",
+      "meaning": "n.过山车",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "2rkmj0k",
+      "word": "customized",
+      "meaning": "v.定制",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "hjzkek7",
+      "word": "tailored",
+      "meaning": "v.定制",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "gc3b92s",
+      "word": "personalized",
+      "meaning": "v.个性化",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "6r457ns",
+      "word": "specialized",
+      "meaning": "v.专业化",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "xbmwvhh",
+      "word": "recruit",
+      "meaning": "v.招募",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "5a4tx3m",
+      "word": "resolved",
+      "meaning": "adj.下定决心的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "65e7e94",
+      "word": "content",
+      "meaning": "n.目录；内容",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "k7lc8sj",
+      "word": "content",
+      "meaning": "adj.满足的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ssnll9k",
+      "word": "overwhelmed",
+      "meaning": "adj.被淹没的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "zvobwvo",
+      "word": "glimmering",
+      "meaning": "adj.闪闪发光的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "xean0eq",
+      "word": "muffled",
+      "meaning": "adj.压抑的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "n1o439n",
+      "word": "swell",
+      "meaning": "v.膨胀",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "cv3ijfx",
+      "word": "hurdle",
+      "meaning": "n.障碍",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "1fqltg5",
+      "word": "procrastinate",
+      "meaning": "v.拖延",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "n4p4yxi",
+      "word": "counteraction",
+      "meaning": "n.抵消",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "731kq5t",
+      "word": "wellbeing",
+      "meaning": "n.幸福",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "6fn7y5q",
+      "word": "exclude",
+      "meaning": "v.排除",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "tqihcyd",
+      "word": "exclusive",
+      "meaning": "adj.专有的；排除的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ns5pxul",
+      "word": "far-reaching",
+      "meaning": "adj.影响深远的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "cs2e48f",
+      "word": "eliminate",
+      "meaning": "v.消除",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "n2crtl7",
+      "word": "ableism",
+      "meaning": "n.歧视",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "nnjw7fl",
+      "word": "manipulation",
+      "meaning": "n.操作",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "x0mpfoq",
+      "word": "simultaneously",
+      "meaning": "adv.同时地",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "hedftyt",
+      "word": "embody",
+      "meaning": "v.体现",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ucw7rqp",
+      "word": "inferior",
+      "meaning": "adj.刺薄的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "nwlqz27",
+      "word": "layoff",
+      "meaning": "v.解雇",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "akrwfit",
+      "word": "substitute",
+      "meaning": "v.代替",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "vjmylgh",
+      "word": "combat",
+      "meaning": "n.战斗；反对",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "qomx09n",
+      "word": "combat",
+      "meaning": "v.减轻",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "jvq9yrw",
+      "word": "combat",
+      "meaning": "adj.战斗的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "4mtfgd5",
+      "word": "distraction",
+      "meaning": "n.干扰；娱乐",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "jmdbcmf",
+      "word": "literally",
+      "meaning": "adj.字面的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ysqn1cl",
+      "word": "neglect",
+      "meaning": "v.忽视",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "xlp2d0f",
+      "word": "ignore",
+      "meaning": "v.忽视",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "lh9rm37",
+      "word": "yield",
+      "meaning": "v.产生",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "kr1z65k",
+      "word": "district",
+      "meaning": "n.地区",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "b0wem47",
+      "word": "elevated",
+      "meaning": "adj.升高的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "7oeft27",
+      "word": "folk",
+      "meaning": "adj.民俗的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "qmmheif",
+      "word": "folk",
+      "meaning": "n.人群",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "98cf5mj",
+      "word": "inflammation",
+      "meaning": "n.炎症",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "boasi22",
+      "word": "resume",
+      "meaning": "n.简历",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "fhhtsy1",
+      "word": "resume",
+      "meaning": "v.重新开始；继续",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ab26oid",
+      "word": "chronic",
+      "meaning": "adj.慢性的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "p6fzagp",
+      "word": "subject",
+      "meaning": "v.遭受",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ocbq0nq",
+      "word": "wit",
+      "meaning": "n.智慧",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "xjt4h5p",
+      "word": "loom",
+      "meaning": "v.发现",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "1sm6ww3",
+      "word": "blaze",
+      "meaning": "v.闪耀",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "unuqdma",
+      "word": "diagnosis",
+      "meaning": "n.诊断",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "lkkdl9s",
+      "word": "grant",
+      "meaning": "v.给予",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ojj9h2j",
+      "word": "grant",
+      "meaning": "n.资助",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "dgnjwx2",
+      "word": "obscured",
+      "meaning": "adj.说不清的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "5vowlsm",
+      "word": "recognize",
+      "meaning": "v.认出",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "b67xzcm",
+      "word": "recognition",
+      "meaning": "n.认出",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "bco0swh",
+      "word": "regular",
+      "meaning": "n.常客",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ao1ynd7",
+      "word": "estimate",
+      "meaning": "n.评估",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ozvowwh",
+      "word": "rate",
+      "meaning": "n.率",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "4za2879",
+      "word": "evaluate",
+      "meaning": "v.评估",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "46bhmyb",
+      "word": "assess",
+      "meaning": "v.评估",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ynhsury",
+      "word": "remain",
+      "meaning": "v.保持",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "45sfjli",
+      "word": "retain",
+      "meaning": "v.保持",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "1nph926",
+      "word": "maintain",
+      "meaning": "v.维持",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "awcjktw",
+      "word": "sustain",
+      "meaning": "v.维持",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "gt1b8k9",
+      "word": "construal",
+      "meaning": "n.解释；说明",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "vekk60i",
+      "word": "cause",
+      "meaning": "n.原因；动机；目标；事业",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "83fxiu7",
+      "word": "nonstop",
+      "meaning": "adj.直达的；不休息的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "i21691o",
+      "word": "cellar",
+      "meaning": "n.地下室",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "wsgdkfn",
+      "word": "intangible",
+      "meaning": "adj.无形的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "48a535q",
+      "word": "slap",
+      "meaning": "v.侮辱；拍击",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "cqvxwjt",
+      "word": "portrait",
+      "meaning": "n.肖像",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "w3eclra",
+      "word": "smash",
+      "meaning": "v.打碎；猛击；撞开；击溃",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "sdinobf",
+      "word": "spectacular",
+      "meaning": "adj.壮观的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "2xgfld0",
+      "word": "retrospect",
+      "meaning": "n.回顾",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "1qt2kk9",
+      "word": "spectator",
+      "meaning": "n.观众",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "r2mxyj0",
+      "word": "podium",
+      "meaning": "n.讲台",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "e0ptd2i",
+      "word": "punch",
+      "meaning": "v.按；敲击",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "7679xmh",
+      "word": "mark",
+      "meaning": "v.庆祝",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "g7ws5a7",
+      "word": "observe",
+      "meaning": "v.观察",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ktudu11",
+      "word": "celebrate",
+      "meaning": "v.庆祝",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "ggma5u8",
+      "word": "maelstrom",
+      "meaning": "n.大漩涡",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "zmw69io",
+      "word": "tropical",
+      "meaning": "adj.热带的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "bn5w2o6",
+      "word": "compassion",
+      "meaning": "n.同情",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "56rhwn6",
+      "word": "campaign",
+      "meaning": "n.活动；运动；战斗",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "m6zo3b4",
+      "word": "campaign",
+      "meaning": "v.领导",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "7k7h7c7",
+      "word": "sympathetic",
+      "meaning": "adj.支持的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "saolppv",
+      "word": "underscore",
+      "meaning": "v.强调；在...下划线",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "k99fgui",
+      "word": "seminar",
+      "meaning": "n.研讨会",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "wnya27k",
+      "word": "integration",
+      "meaning": "n.结合；整合",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "hk192ej",
+      "word": "tackle",
+      "meaning": "v.应付；处理；解决",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "h89wgjp",
+      "word": "diagnose",
+      "meaning": "v.诊断；判断",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "bdpccdd",
+      "word": "dread",
+      "meaning": "v.畏惧；担心",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "oky8gm8",
+      "word": "dread",
+      "meaning": "n.害怕；惊恐",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "4qfzims",
+      "word": "mutation",
+      "meaning": "n.变异",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "9dxbbda",
+      "word": "hypothesis",
+      "meaning": "n.假设；假说；猜测；前提",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "kl4z4pw",
+      "word": "lobster",
+      "meaning": "n.龙虾",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "kjg4ivb",
+      "word": "steam",
+      "meaning": "n.蒸汽；动力",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "nm077ht",
+      "word": "steam",
+      "meaning": "v.行驶",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "22t800v",
+      "word": "unwind",
+      "meaning": "v.放松；解开",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "p1caqk9",
+      "word": "cognitive",
+      "meaning": "adj.认知的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "t1l8nom",
+      "word": "radical",
+      "meaning": "adj.根本的；彻底的；激进的；全新的；急剧的；原来的",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "691xmpd",
+      "word": "magnet",
+      "meaning": "n.磁铁",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "zhqkqa9",
+      "word": "cashier",
+      "meaning": "n.收银员",
+      "createdAt": 1773391923347
+    },
+    {
+      "id": "tf6pn6e",
+      "word": "cashier",
+      "meaning": "v.开除",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "fbcbypv",
+      "word": "curable",
+      "meaning": "adj.可治愈的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "90ll9wc",
+      "word": "alter",
+      "meaning": "v.改变；变化",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "7f06wp3",
+      "word": "scalpel",
+      "meaning": "n.手术刀",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "gi64beg",
+      "word": "prospective",
+      "meaning": "adj.有希望的；潜在的；预期的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "bbbjt0s",
+      "word": "renowned",
+      "meaning": "adj.著名的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "2cq6384",
+      "word": "leisure",
+      "meaning": "n.闲暇",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "8hmkuaa",
+      "word": "leisure",
+      "meaning": "adj.空闲的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "2mopuru",
+      "word": "cramp",
+      "meaning": "v.抽筋；限制",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "uf4id9j",
+      "word": "spacious",
+      "meaning": "adj.宽敞的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "ixkgbrx",
+      "word": "deter",
+      "meaning": "v.防止",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "c58xqth",
+      "word": "dispense",
+      "meaning": "v.分配；提供；施予",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "ai3r07z",
+      "word": "consistency",
+      "meaning": "n.一致性",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "9b055pz",
+      "word": "render",
+      "meaning": "v.给予；表现；使成为；提交；放弃；翻译；献出",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "u5i8w1w",
+      "word": "smudge",
+      "meaning": "n.污点",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "szpwi6m",
+      "word": "smudge",
+      "meaning": "v.弄脏；把...擦模糊",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "hann15k",
+      "word": "righties",
+      "meaning": "n.惯用右手的人",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "6isyxwc",
+      "word": "setup",
+      "meaning": "n.体制；组织方式；栽赃；安装",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "5ii3nb8",
+      "word": "slant",
+      "meaning": "v.倾斜",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "bxglmmn",
+      "word": "exert",
+      "meaning": "v.运用；努力",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "ygfq34u",
+      "word": "legibility",
+      "meaning": "n.易读性",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "dkcsle4",
+      "word": "grip",
+      "meaning": "v./n.紧握；控制；理解",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "tjjcnpt",
+      "word": "repetition",
+      "meaning": "n.重复；重做",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "9zw396s",
+      "word": "overly",
+      "meaning": "adv.十分；过于；很",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "ez1ucgg",
+      "word": "attire",
+      "meaning": "n.服装",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "fktl7zz",
+      "word": "excessively",
+      "meaning": "adv.过分地；极度",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "h1iahag",
+      "word": "corporate",
+      "meaning": "adj.公司的；法人的；共同的；全体的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "x9oagz9",
+      "word": "provoke",
+      "meaning": "v.引起；激怒；挑衅；刺激",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "ybzok5a",
+      "word": "interdisciplinary",
+      "meaning": "adj.跨学科的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "s6xkx3b",
+      "word": "spinoff",
+      "meaning": "n.续集；副产品",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "rsflcu8",
+      "word": "metallurgist",
+      "meaning": "n.冶金学者",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "ne2u839",
+      "word": "fiscal",
+      "meaning": "adj.财政的；金融的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "ydoe2eo",
+      "word": "overlap",
+      "meaning": "v.互搭；重叠；同时发生",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "9xef1e2",
+      "word": "overlap",
+      "meaning": "n.交接时期",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "6hnanft",
+      "word": "innovative",
+      "meaning": "adj.革新的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "z8o8db5",
+      "word": "generative",
+      "meaning": "adj.有生产力的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "3iwy7sl",
+      "word": "transistor",
+      "meaning": "n.晶体管",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "t279fpl",
+      "word": "unjustifiable",
+      "meaning": "adj.不合理的；不能分辩的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "2dketxl",
+      "word": "pin",
+      "meaning": "n.别针；胸针；徽章；钉；楔",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "tbprkx8",
+      "word": "collaboration",
+      "meaning": "n.合作；勾结",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "qqx9mrc",
+      "word": "revive",
+      "meaning": "v.复原；复苏",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "abhj1l6",
+      "word": "stuff",
+      "meaning": "n.东西；物品；特质；根本；活动；作品；乐曲；废话；饮料",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "a0hthen",
+      "word": "stuff",
+      "meaning": "v.填满；吃撑；不在乎",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "uxv0q6w",
+      "word": "plateau",
+      "meaning": "n.高原；稳定期；托盘",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "zggkiob",
+      "word": "soar",
+      "meaning": "v.急升；猛涨；高飞；升腾；高涨；增强",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "xxfwzac",
+      "word": "retain",
+      "meaning": "v.保留",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "2n14j8v",
+      "word": "obtain",
+      "meaning": "v.获得",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "yh3h5wa",
+      "word": "attain",
+      "meaning": "v.达到",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "g9n2ypl",
+      "word": "contain",
+      "meaning": "v.包含",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "15ebmgi",
+      "word": "sustain",
+      "meaning": "v.持续",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "xlru2ra",
+      "word": "manufacture",
+      "meaning": "n.制造",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "my3rsmx",
+      "word": "manufacture",
+      "meaning": "v.生产；编造",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "x0owvik",
+      "word": "still",
+      "meaning": "adj.静止的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "exemkip",
+      "word": "densify",
+      "meaning": "v.致密",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "e7ms8xf",
+      "word": "sketchbook",
+      "meaning": "n.素描本",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "3s7bpjk",
+      "word": "prominent",
+      "meaning": "adj.重要的；著名的；突出的；高耸的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "y3vvcfk",
+      "word": "craze",
+      "meaning": "n.狂热",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "sq7tru2",
+      "word": "craze",
+      "meaning": "v.发狂",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "fqptnep",
+      "word": "orient",
+      "meaning": "v.朝向；面对；使结合；使熟悉",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "2cxgomn",
+      "word": "mayor",
+      "meaning": "n.市长；镇长",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "36mu1oi",
+      "word": "compelling",
+      "meaning": "adj.令人信服的；引人入胜的；难以抗拒的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "0cha1mz",
+      "word": "aversion",
+      "meaning": "n.憎恶；厌恶；讨厌的人",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "dx7jixf",
+      "word": "commerce",
+      "meaning": "n.商业",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "ffkzbk7",
+      "word": "simultaneous",
+      "meaning": "adj.同步的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "0vcemgp",
+      "word": "incentive",
+      "meaning": "n.激励；奖励；诱因",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "64g6vyf",
+      "word": "ideological",
+      "meaning": "adj.思想体系的；意识形态的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "9szwgtq",
+      "word": "substitute",
+      "meaning": "n.代替品",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "bt2zlr1",
+      "word": "substitute",
+      "meaning": "v.代替",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "tv8n26h",
+      "word": "mate",
+      "meaning": "n.朋友；伙伴",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "fp72jme",
+      "word": "script",
+      "meaning": "n.讲稿；笔迹；字体；处方；计划；期待",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "t75b6la",
+      "word": "crawl",
+      "meaning": "v.爬行；缓慢移动",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "9m62ds2",
+      "word": "crawl",
+      "meaning": "n.缓慢移动",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "28aoh3r",
+      "word": "sake",
+      "meaning": "n.利益；好处；目的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "1wspm94",
+      "word": "reverse",
+      "meaning": "v.逆转；撤销；交换；放弃",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "39wq610",
+      "word": "reverse",
+      "meaning": "n.相反；背面",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "f4rx02w",
+      "word": "reverse",
+      "meaning": "adj.相反的；背面的；颠倒的；反车的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "plmnqak",
+      "word": "resent",
+      "meaning": "v.怨恨",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "ksm6xnw",
+      "word": "doodlebug",
+      "meaning": "n.飞弹",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "7sm8015",
+      "word": "resemble",
+      "meaning": "v.像；与...相似",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "ljmisvg",
+      "word": "idle",
+      "meaning": "adj.无事可做的；懒惰的；闲置的；空闲的；无意义的；磨人的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "59kuf6m",
+      "word": "idle",
+      "meaning": "v.闲逛；空转",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "btsckf2",
+      "word": "stagnant",
+      "meaning": "adj.停滞不前的；污浊的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "2cex9mq",
+      "word": "go-cart",
+      "meaning": "n.卡丁车",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "t0ldtka",
+      "word": "coin",
+      "meaning": "n.硬币",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "539gvk6",
+      "word": "cling",
+      "meaning": "v.抓住；抱紧；粘住；依附；坚持；坚守",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "g7ho83f",
+      "word": "subtle",
+      "meaning": "adj.微妙的；敏锐的；灵活的；巧妙的；含蓄的；狡猾的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "z4me2j6",
+      "word": "gaze",
+      "meaning": "v.凝视；注视",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "z366pcf",
+      "word": "devastating",
+      "meaning": "adj.毁灭性的；令人震惊的；令人印象深刻的；吸引人的；强有力的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "bqo43d5",
+      "word": "elicit",
+      "meaning": "v.引出；得到；使显现",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "cjsvswb",
+      "word": "stumble",
+      "meaning": "n./v.绊倒；出差错；蹒跚而行；差错",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "1ud97um",
+      "word": "terrace",
+      "meaning": "n.阶地；梯田；露台",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "7bqmshb",
+      "word": "invisible",
+      "meaning": "adj.隐形的；无形的；被忽视的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "r7v9w9e",
+      "word": "invisible",
+      "meaning": "n.无形进出口",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "dfit40d",
+      "word": "waterway",
+      "meaning": "n.水路；水道；排水沟",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "1pgrcyq",
+      "word": "pause",
+      "meaning": "n.停留；停顿",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "g9v679o",
+      "word": "stunning",
+      "meaning": "adj.极好的；令人震惊的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "adj5n7w",
+      "word": "tutorial",
+      "meaning": "adj.导师的；辅导的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "2tgxyin",
+      "word": "coexistence",
+      "meaning": "n.共存；和平共处",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "vtf68t5",
+      "word": "prioritize",
+      "meaning": "v.优先考虑；按优先顺序列出",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "nmh0f94",
+      "word": "colonial",
+      "meaning": "adj.殖民地的",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "5tdr2rw",
+      "word": "scribble",
+      "meaning": "v.乱涂乱画；写作；潦草地写",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "o792phu",
+      "word": "flagship",
+      "meaning": "n.旗舰",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "xgjj71u",
+      "word": "narrative",
+      "meaning": "adj./n.叙述；记叙文",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "i6hynes",
+      "word": "narrator",
+      "meaning": "n.叙述者；旁白",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "9blcdrh",
+      "word": "poke",
+      "meaning": "n./v.戳；刺；吸引...的注意",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "977eu23",
+      "word": "flaw",
+      "meaning": "n.缺点；瑕疵",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "1minqt2",
+      "word": "flaw",
+      "meaning": "v.削弱；使失效",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "0bhs22q",
+      "word": "grin",
+      "meaning": "v.露齿笑",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "3xr6mhc",
+      "word": "erase",
+      "meaning": "v.抹去；删除；消灭",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "9jetg43",
+      "word": "rug",
+      "meaning": "n.小地毯；垫子",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "mz8ddx7",
+      "word": "attentively",
+      "meaning": "adv.注意地；聚精会神地；周到地",
+      "createdAt": 1773391923348
+    },
+    {
+      "id": "9x88wgl",
+      "word": "creeping",
+      "meaning": "adj.爬行的；迟缓的；毛骨悚然的",
+      "createdAt": 1773391923348
+    }
+  ],
+  "memoryStates": [
+    {
+      "wordId": "88wfa7o",
+      "level": "learning",
+      "stage": 0,
+      "nextReviewAt": 1773392258454,
+      "lastReviewAt": 1773391958454,
+      "reviewCount": 1,
+      "forgottenCount": 1,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "s64ymfh",
+      "level": "learning",
+      "stage": 1,
+      "nextReviewAt": 1773393774893,
+      "lastReviewAt": 1773391974893,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 1,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "r5f1ykq",
+      "level": "learning",
+      "stage": 0,
+      "nextReviewAt": 1773394415728,
+      "lastReviewAt": 1773394115728,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 1,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "9vrpwfg",
+      "level": "learning",
+      "stage": 0,
+      "nextReviewAt": 1773394416844,
+      "lastReviewAt": 1773394116844,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 1,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "6oogjfo",
+      "level": "learning",
+      "stage": 1,
+      "nextReviewAt": 1773395918044,
+      "lastReviewAt": 1773394118044,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 1,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "v8kqyvp",
+      "level": "learning",
+      "stage": 1,
+      "nextReviewAt": 1773395919021,
+      "lastReviewAt": 1773394119021,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 1,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dnl5has",
+      "level": "learning",
+      "stage": 0,
+      "nextReviewAt": 1773394420380,
+      "lastReviewAt": 1773394120380,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 1,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2ztkje9",
+      "level": "learning",
+      "stage": 1,
+      "nextReviewAt": 1773395921324,
+      "lastReviewAt": 1773394121324,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 1,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "aebxmae",
+      "level": "learning",
+      "stage": 0,
+      "nextReviewAt": 1773394422308,
+      "lastReviewAt": 1773394122308,
+      "reviewCount": 1,
+      "forgottenCount": 1,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "co025lw",
+      "level": "learning",
+      "stage": 0,
+      "nextReviewAt": 1773394423428,
+      "lastReviewAt": 1773394123427,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 1,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "jsck6nw",
+      "level": "learning",
+      "stage": 1,
+      "nextReviewAt": 1773395924326,
+      "lastReviewAt": 1773394124326,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 1,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "pniheg8",
+      "level": "learning",
+      "stage": 0,
+      "nextReviewAt": 1773394425164,
+      "lastReviewAt": 1773394125164,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 1,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "laf4fm4",
+      "level": "learning",
+      "stage": 0,
+      "nextReviewAt": 1773394426461,
+      "lastReviewAt": 1773394126461,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 1,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "hd2xkio",
+      "level": "learning",
+      "stage": 0,
+      "nextReviewAt": 1773394427288,
+      "lastReviewAt": 1773394127288,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 1,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "7p4aue3",
+      "level": "learning",
+      "stage": 0,
+      "nextReviewAt": 1773394428508,
+      "lastReviewAt": 1773394128508,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 1,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "0rvytk5",
+      "level": "learning",
+      "stage": 1,
+      "nextReviewAt": 1773395930756,
+      "lastReviewAt": 1773394130756,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 1,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dhz38xf",
+      "level": "learning",
+      "stage": 0,
+      "nextReviewAt": 1773394432539,
+      "lastReviewAt": 1773394132539,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 1,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "zliaqx6",
+      "level": "learning",
+      "stage": 0,
+      "nextReviewAt": 1773394433587,
+      "lastReviewAt": 1773394133587,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 1,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "r9fmo13",
+      "level": "learning",
+      "stage": 0,
+      "nextReviewAt": 1773394435190,
+      "lastReviewAt": 1773394135190,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 1,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "8vcfss4",
+      "level": "learning",
+      "stage": 0,
+      "nextReviewAt": 1773394436005,
+      "lastReviewAt": 1773394136005,
+      "reviewCount": 1,
+      "forgottenCount": 0,
+      "fuzzyCount": 1,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "pidr311",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "4pp0kyj",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "oo3wtiv",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "gdub6my",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "w5mizf3",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "86e4urz",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "snjwgsu",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "rcmzwxm",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "3602v4l",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "w0o2qci",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "16rj3wd",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "rgep7so",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "0pfwy7y",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "in26k6d",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "3en9e8g",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "220ubdw",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "3iwdpdg",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "aszwa29",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ltsozeq",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "joz0zx2",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "vynuqwd",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "1noj472",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "v2uew07",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "mtnd49v",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "e29bmu8",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ed44lu1",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "6bc553x",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "bmvtba4",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dzo9uvn",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ojq5oxt",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ga9yq4v",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "odgeaep",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "jptl14h",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "v28z6ao",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "9dtvtw1",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "b68u4xm",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "j69qaih",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "8hpfgf0",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "pav48q8",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "uemwbuk",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "btzf4f0",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "igskrcu",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "4pmkf9y",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "hy4anrv",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "s0hyvdc",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "h18s5b2",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "psht7q3",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "lj5aq0t",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "6h55sj9",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "gbq8nhh",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "slb0ogi",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ezpwag2",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "8apmk19",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ww4lf0l",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "floskzy",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dsy5s7b",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "38hiajw",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "oktlqpa",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ksfi8gz",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "o6vu3y7",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "sfws9rh",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "4n5yemc",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "7zw4l39",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "hbcfn05",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "1m6hp7t",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "3jsjvpz",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "vzp2gel",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "501py8o",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "n35ztgo",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "hpcetjf",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "y4u2ggn",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "7ntbidj",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "kn1yt7e",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "sf4aepq",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "bobn7hk",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "79z5veb",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ycmyy18",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "8lrb6fw",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "9zqsrcs",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "bxkjcoa",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "bdvodvp",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "v072jmb",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "6yaa74o",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "jiclxcj",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "u0vbfa2",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "qkyakxo",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "gcajy3m",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "u3tqa77",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "isqy94p",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2hpuzu3",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "lbaikpq",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ao9fuiq",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "kfhb4t0",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "c9ynqnk",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "m4v49qw",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "wsy31ua",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "7uj91im",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "cvl3qoi",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "6yinnuh",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "b6yw26r",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ns0efa4",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "3adxmzt",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "jecsg62",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "sycb33d",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "3y0igds",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "tdpghbv",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "e85tvdl",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "przl3a0",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dmgh1zn",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "t9bsa8u",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "de9pqgb",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "pgy4rw4",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "fk3v88b",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "vkncx1r",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "oe0j8vv",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "fn8xxyh",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "erj3hio",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "luu09c7",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "s7v9dbc",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "j1n9leu",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "q30bd9n",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "uzofzvl",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "akqtdqo",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "79qix0e",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "zs7u4o8",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "b0jojo4",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "r0xq21o",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "xy4d3wp",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ljlb1ay",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dedxyn3",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "7txjp2y",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "4i5vhu7",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "r93uh95",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "zcpv6tp",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "5529c27",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "wkvnoav",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "y6b97xv",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "f3hnc28",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "qy3h8yj",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "5l4dz4n",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "201r8e0",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "e6fwzkn",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "pe0o0qo",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "o9ctwo0",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "gtkanne",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "xbwc619",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ihs07f4",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ozhhs0x",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ynd8nzi",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "rc94tdj",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ax7vvha",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "vtbynf8",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "tjmdf97",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "no4kaox",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "o04qot3",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "pb4ik0x",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "iqa1c1s",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dpd68h8",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "azkmyc4",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "60n22nt",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "e023loh",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ekam0gz",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "93nadu9",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "5w8vnpe",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "sysz858",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "weqo25s",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "e2fn4qu",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "0uaqldh",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2lrfy0z",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "bk3wahm",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "jb2bpjr",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2lxgm8s",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "r9whqtz",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "1wycyt0",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "t4xz9uo",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "gc0wvja",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "cvtp5td",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dzham0n",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "7cau59o",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "0gwj69u",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "htzq2qi",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "qzxpuxn",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2kgnpxw",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "3p8vppk",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "cp7i6ft",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "w2vzv13",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "v99bwce",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dp67jzr",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "c978ap0",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "77w2akf",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "hrg84ge",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "lxhedlz",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "8pnx278",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dwfdfx3",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "w3nneia",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "3fakcfw",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "igrtezw",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "yp9mrx9",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "65ygpqm",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "wa8f44a",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "4ljxkx9",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "p7y3nxn",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "se322ww",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "qi8dl19",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2m96utj",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2skw632",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "il1w9zo",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "rdew2nk",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "m9l3vco",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "s7h2v3f",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "rhi8pgb",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ij17j0n",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "mu4hp7m",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "q5a2ewq",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "loh2qqm",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ilite2z",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "c0h4f50",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "otm23fm",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "uvr74su",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "r5i4rzy",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "bexsxum",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "cc1kfdb",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "xje19ac",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "kzrxz2q",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dxg2eas",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2rkmj0k",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "hjzkek7",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "gc3b92s",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "6r457ns",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "xbmwvhh",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "5a4tx3m",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "65e7e94",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "k7lc8sj",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ssnll9k",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "zvobwvo",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "xean0eq",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "n1o439n",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "cv3ijfx",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "1fqltg5",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "n4p4yxi",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "731kq5t",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "6fn7y5q",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "tqihcyd",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ns5pxul",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "cs2e48f",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "n2crtl7",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "nnjw7fl",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "x0mpfoq",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "hedftyt",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ucw7rqp",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "nwlqz27",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "akrwfit",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "vjmylgh",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "qomx09n",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "jvq9yrw",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "4mtfgd5",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "jmdbcmf",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ysqn1cl",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "xlp2d0f",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "lh9rm37",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "kr1z65k",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "b0wem47",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "7oeft27",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "qmmheif",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "98cf5mj",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "boasi22",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "fhhtsy1",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ab26oid",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "p6fzagp",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ocbq0nq",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "xjt4h5p",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "1sm6ww3",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "unuqdma",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "lkkdl9s",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ojj9h2j",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dgnjwx2",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "5vowlsm",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "b67xzcm",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "bco0swh",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ao1ynd7",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ozvowwh",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "4za2879",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "46bhmyb",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ynhsury",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "45sfjli",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "1nph926",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "awcjktw",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "gt1b8k9",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "vekk60i",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "83fxiu7",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "i21691o",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "wsgdkfn",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "48a535q",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "cqvxwjt",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "w3eclra",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "sdinobf",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2xgfld0",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "1qt2kk9",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "r2mxyj0",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "e0ptd2i",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "7679xmh",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "g7ws5a7",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ktudu11",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ggma5u8",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "zmw69io",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "bn5w2o6",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "56rhwn6",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "m6zo3b4",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "7k7h7c7",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "saolppv",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "k99fgui",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "wnya27k",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "hk192ej",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "h89wgjp",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "bdpccdd",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "oky8gm8",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "4qfzims",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "9dxbbda",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "kl4z4pw",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "kjg4ivb",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "nm077ht",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "22t800v",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "p1caqk9",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "t1l8nom",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "691xmpd",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "zhqkqa9",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "tf6pn6e",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "fbcbypv",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "90ll9wc",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "7f06wp3",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "gi64beg",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "bbbjt0s",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2cq6384",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "8hmkuaa",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2mopuru",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "uf4id9j",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ixkgbrx",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "c58xqth",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ai3r07z",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "9b055pz",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "u5i8w1w",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "szpwi6m",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "hann15k",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "6isyxwc",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "5ii3nb8",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "bxglmmn",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ygfq34u",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dkcsle4",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "tjjcnpt",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "9zw396s",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ez1ucgg",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "fktl7zz",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "h1iahag",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "x9oagz9",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ybzok5a",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "s6xkx3b",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "rsflcu8",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ne2u839",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ydoe2eo",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "9xef1e2",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "6hnanft",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "z8o8db5",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "3iwy7sl",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "t279fpl",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2dketxl",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "tbprkx8",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "qqx9mrc",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "abhj1l6",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "a0hthen",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "uxv0q6w",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "zggkiob",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "xxfwzac",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2n14j8v",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "yh3h5wa",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "g9n2ypl",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "15ebmgi",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "xlru2ra",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "my3rsmx",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "x0owvik",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "exemkip",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "e7ms8xf",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "3s7bpjk",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "y3vvcfk",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "sq7tru2",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "fqptnep",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2cxgomn",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "36mu1oi",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "0cha1mz",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dx7jixf",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ffkzbk7",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "0vcemgp",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "64g6vyf",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "9szwgtq",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "bt2zlr1",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "tv8n26h",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "fp72jme",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "t75b6la",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "9m62ds2",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "28aoh3r",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "1wspm94",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "39wq610",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "f4rx02w",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "plmnqak",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ksm6xnw",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "7sm8015",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "ljmisvg",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "59kuf6m",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "btsckf2",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2cex9mq",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "t0ldtka",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "539gvk6",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "g7ho83f",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "z4me2j6",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "z366pcf",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "bqo43d5",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "cjsvswb",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "1ud97um",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "7bqmshb",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "r7v9w9e",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "dfit40d",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "1pgrcyq",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "g9v679o",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "adj5n7w",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "2tgxyin",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "vtf68t5",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "nmh0f94",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "5tdr2rw",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "o792phu",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "xgjj71u",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "i6hynes",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "9blcdrh",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "977eu23",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "1minqt2",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "0bhs22q",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "3xr6mhc",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "9jetg43",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "mz8ddx7",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    },
+    {
+      "wordId": "9x88wgl",
+      "level": "new",
+      "stage": 0,
+      "nextReviewAt": 0,
+      "lastReviewAt": 0,
+      "reviewCount": 0,
+      "forgottenCount": 0,
+      "fuzzyCount": 0,
+      "consecutiveKnown": 0,
+      "isStrengthening": false
+    }
+  ],
+  "reviewLogs": [
+    {
+      "id": "f9om71o",
+      "wordId": "88wfa7o",
+      "result": "forgotten",
+      "timestamp": 1773391958454,
+      "stage": 0
+    },
+    {
+      "id": "bx5sm62",
+      "wordId": "s64ymfh",
+      "result": "known",
+      "timestamp": 1773391974893,
+      "stage": 0
+    },
+    {
+      "id": "p944l5w",
+      "wordId": "r5f1ykq",
+      "result": "fuzzy",
+      "timestamp": 1773394115728,
+      "stage": 0
+    },
+    {
+      "id": "ywazeg8",
+      "wordId": "9vrpwfg",
+      "result": "fuzzy",
+      "timestamp": 1773394116844,
+      "stage": 0
+    },
+    {
+      "id": "4o7urt7",
+      "wordId": "6oogjfo",
+      "result": "known",
+      "timestamp": 1773394118044,
+      "stage": 0
+    },
+    {
+      "id": "lwkjj0n",
+      "wordId": "v8kqyvp",
+      "result": "known",
+      "timestamp": 1773394119021,
+      "stage": 0
+    },
+    {
+      "id": "mv4tm83",
+      "wordId": "dnl5has",
+      "result": "fuzzy",
+      "timestamp": 1773394120380,
+      "stage": 0
+    },
+    {
+      "id": "7ozn3h9",
+      "wordId": "2ztkje9",
+      "result": "known",
+      "timestamp": 1773394121324,
+      "stage": 0
+    },
+    {
+      "id": "clwxuzw",
+      "wordId": "aebxmae",
+      "result": "forgotten",
+      "timestamp": 1773394122308,
+      "stage": 0
+    },
+    {
+      "id": "gy39t03",
+      "wordId": "co025lw",
+      "result": "fuzzy",
+      "timestamp": 1773394123427,
+      "stage": 0
+    },
+    {
+      "id": "un2ozna",
+      "wordId": "jsck6nw",
+      "result": "known",
+      "timestamp": 1773394124326,
+      "stage": 0
+    },
+    {
+      "id": "r8kkekb",
+      "wordId": "pniheg8",
+      "result": "fuzzy",
+      "timestamp": 1773394125164,
+      "stage": 0
+    },
+    {
+      "id": "kv9m9ah",
+      "wordId": "laf4fm4",
+      "result": "fuzzy",
+      "timestamp": 1773394126461,
+      "stage": 0
+    },
+    {
+      "id": "yl6zgkw",
+      "wordId": "hd2xkio",
+      "result": "fuzzy",
+      "timestamp": 1773394127288,
+      "stage": 0
+    },
+    {
+      "id": "7d38k19",
+      "wordId": "7p4aue3",
+      "result": "fuzzy",
+      "timestamp": 1773394128508,
+      "stage": 0
+    },
+    {
+      "id": "pyngp9g",
+      "wordId": "0rvytk5",
+      "result": "known",
+      "timestamp": 1773394130756,
+      "stage": 0
+    },
+    {
+      "id": "p6ng4lp",
+      "wordId": "dhz38xf",
+      "result": "fuzzy",
+      "timestamp": 1773394132539,
+      "stage": 0
+    },
+    {
+      "id": "jkoajko",
+      "wordId": "zliaqx6",
+      "result": "fuzzy",
+      "timestamp": 1773394133587,
+      "stage": 0
+    },
+    {
+      "id": "n1o1gxz",
+      "wordId": "r9fmo13",
+      "result": "fuzzy",
+      "timestamp": 1773394135190,
+      "stage": 0
+    },
+    {
+      "id": "3jcxsxv",
+      "wordId": "8vcfss4",
+      "result": "fuzzy",
+      "timestamp": 1773394136005,
+      "stage": 0
+    }
+  ],
+  "dailyTasks": {
+    "2026-03-13": {
+      "date": "2026-03-13",
+      "newWords": [
+        "88wfa7o",
+        "s64ymfh",
+        "r5f1ykq",
+        "9vrpwfg",
+        "6oogjfo",
+        "v8kqyvp",
+        "dnl5has",
+        "2ztkje9",
+        "aebxmae",
+        "co025lw",
+        "jsck6nw",
+        "pniheg8",
+        "laf4fm4",
+        "hd2xkio",
+        "7p4aue3",
+        "0rvytk5",
+        "dhz38xf",
+        "zliaqx6",
+        "r9fmo13",
+        "8vcfss4"
+      ],
+      "reviewWords": [],
+      "strengtheningWords": [],
+      "completed": false
+    }
+  }
+}

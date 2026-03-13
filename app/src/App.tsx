@@ -10,9 +10,12 @@ import { WordImport } from '@/components/WordImport';
 import { StudySession } from '@/components/StudySession';
 import { StatisticsPanel } from '@/components/StatisticsPanel';
 import { HighForgottenWords } from '@/components/HighForgottenWords';
+import { WordList } from '@/components/WordList';
+import { SettingsPanel } from '@/components/SettingsPanel';
 import { Toaster } from '@/components/ui/sonner';
 import { toast } from 'sonner';
 import type { DailyTask, ReviewResult } from '@/types';
+import { VERSION_INFO } from '@/version';
 import {
   BookOpen,
   BarChart3,
@@ -25,6 +28,7 @@ import {
   Volume2,
   VolumeX,
   Settings,
+  Search,
 } from 'lucide-react';
 import {
   Dialog,
@@ -47,17 +51,23 @@ export default function App() {
     memoryStates,
     reviewLogs,
     dailyTasks,
+    sessionProgress,
     importWords,
     getTodayTask,
     peekTodayTask,
     reviewWord,
     getStatistics,
     clearAll,
+    editWord,
+    deleteWord,
+    saveSessionProgress,
+    clearSessionProgress,
+    getSessionProgress,
     exportData,
     importData,
   } = useMemorySystem();
 
-  const { settings, toggleSound } = useSettings();
+  const { settings, updateSettings, resetSettings, toggleSound } = useSettings();
   const { downloadBackup } = useBackup();
 
   const [activeTab, setActiveTab] = useState('study');
@@ -66,17 +76,23 @@ export default function App() {
   const [todayTask, setTodayTask] = useState<DailyTask | null>(null);
   const [statistics, setStatistics] = useState(() => getStatistics());
   const [showResetDialog, setShowResetDialog] = useState(false);
+  const [showContinueDialog, setShowContinueDialog] = useState(false);
 
   // 刷新数据
   const refreshData = useCallback(() => {
-    setTodayTask(peekTodayTask());
+    setTodayTask(peekTodayTask(settings.dailyNewWordsLimit));
     setStatistics(getStatistics());
-  }, [peekTodayTask, getStatistics]);
+  }, [peekTodayTask, getStatistics, settings.dailyNewWordsLimit]);
 
   // 初始化
   useEffect(() => {
     refreshData();
-  }, [refreshData]);
+    
+    // 检测未完成的学习进度
+    if (sessionProgress) {
+      setShowContinueDialog(true);
+    }
+  }, [refreshData, sessionProgress]);
 
   // 处理导入
   const handleImport = useCallback(
@@ -98,7 +114,7 @@ export default function App() {
 
   // 开始学习
   const startStudy = (type: typeof studyType) => {
-    const task = getTodayTask();
+    const task = getTodayTask(settings.dailyNewWordsLimit);
     setTodayTask(task);
     setStudyType(type);
     setIsStudying(true);
@@ -134,7 +150,7 @@ export default function App() {
 
   // 处理数据导出
   const handleExport = () => {
-    downloadBackup(words, memoryStates, reviewLogs, dailyTasks);
+    downloadBackup(words, memoryStates, reviewLogs, dailyTasks, sessionProgress, settings);
     toast.success('备份已下载！');
   };
 
@@ -162,11 +178,116 @@ export default function App() {
     input.click();
   };
 
+  // 处理单词本导出
+  const handleExportWords = () => {
+    const exportData = {
+      version: '1.0',
+      timestamp: Date.now(),
+      words: words.map(word => {
+        const memoryState = memoryStates.find(ms => ms.wordId === word.id);
+        return {
+          ...word,
+          memoryState: memoryState ? {
+            level: memoryState.level,
+            stage: memoryState.stage,
+            reviewCount: memoryState.reviewCount,
+            forgottenCount: memoryState.forgottenCount,
+            fuzzyCount: memoryState.fuzzyCount,
+            consecutiveKnown: memoryState.consecutiveKnown,
+            isStrengthening: memoryState.isStrengthening,
+            strengtheningLevel: memoryState.strengtheningLevel
+          } : null
+        };
+      })
+    };
+    
+    const jsonString = JSON.stringify(exportData, null, 2);
+    const blob = new Blob([jsonString], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `sarawords-export-${new Date().toISOString().split('T')[0]}.json`;
+    a.click();
+    
+    URL.revokeObjectURL(url);
+    toast.success('单词本已导出！');
+  };
+
+  // 处理单词本导入
+  const handleImportWords = () => {
+    const input = document.createElement('input');
+    input.type = 'file';
+    input.accept = '.json';
+    input.onchange = (e) => {
+      const file = (e.target as HTMLInputElement).files?.[0];
+      if (file) {
+        const reader = new FileReader();
+        reader.onload = (event) => {
+          try {
+            const content = event.target?.result as string;
+            const data = JSON.parse(content);
+            
+            if (Array.isArray(data.words)) {
+              const newWords = data.words.map((item: any) => ({
+                word: item.word,
+                meaning: item.meaning
+              }));
+              
+              importWords(newWords);
+              refreshData();
+              toast.success('单词本导入成功！');
+            } else {
+              toast.error('导入文件格式错误');
+            }
+          } catch (error) {
+            toast.error('导入失败，请检查文件格式');
+          }
+        };
+        reader.readAsText(file);
+      }
+    };
+    input.click();
+  };
+
   // 处理清空
   const handleClear = () => {
     clearAll();
     setShowResetDialog(false);
     refreshData();
+  };
+
+  // 处理编辑单词
+  const handleEditWord = useCallback((word) => {
+    editWord(word);
+    refreshData();
+    toast.success('单词已更新！');
+  }, [editWord, refreshData]);
+
+  // 处理删除单词
+  const handleDeleteWord = useCallback((wordId) => {
+    if (confirm('确定要删除这个单词吗？')) {
+      deleteWord(wordId);
+      refreshData();
+      toast.success('单词已删除！');
+    }
+  }, [deleteWord, refreshData]);
+
+  // 处理继续学习
+  const handleContinueStudy = () => {
+    if (sessionProgress) {
+      const { wordIds, studyType: savedStudyType } = sessionProgress;
+      const studyWords = words.filter((w) => wordIds.includes(w.id));
+      setStudyType(savedStudyType);
+      setIsStudying(true);
+      setShowContinueDialog(false);
+    }
+  };
+
+  // 放弃未完成的进度
+  const handleDiscardProgress = () => {
+    clearSessionProgress();
+    setShowContinueDialog(false);
   };
 
   // 学习模式
@@ -192,8 +313,12 @@ export default function App() {
               setIsStudying(false);
               refreshData();
             }}
+            onSaveProgress={saveSessionProgress}
+            onClearProgress={clearSessionProgress}
             title={title}
             soundEnabled={settings.soundEnabled}
+            studyType={studyType}
+            initialProgress={sessionProgress}
           />
         </div>
       </div>
@@ -247,7 +372,7 @@ export default function App() {
       {/* 主内容 */}
       <main className="max-w-4xl mx-auto px-4 py-6">
         <Tabs value={activeTab} onValueChange={setActiveTab}>
-          <TabsList className="grid w-full grid-cols-3">
+          <TabsList className="grid w-full grid-cols-5">
             <TabsTrigger value="study" className="flex items-center gap-2">
               <BookOpen className="w-4 h-4" />
               学习
@@ -259,6 +384,14 @@ export default function App() {
             <TabsTrigger value="import" className="flex items-center gap-2">
               <Upload className="w-4 h-4" />
               导入
+            </TabsTrigger>
+            <TabsTrigger value="manage" className="flex items-center gap-2">
+              <Search className="w-4 h-4" />
+              管理
+            </TabsTrigger>
+            <TabsTrigger value="settings" className="flex items-center gap-2">
+              <Settings className="w-4 h-4" />
+              设置
             </TabsTrigger>
           </TabsList>
 
@@ -400,6 +533,27 @@ export default function App() {
               </Card>
             )}
           </TabsContent>
+
+          {/* 管理标签 */}
+          <TabsContent value="manage" className="mt-4">
+            <WordList
+              words={words}
+              memoryStates={memoryStates}
+              onEditWord={handleEditWord}
+              onDeleteWord={handleDeleteWord}
+              onExportWords={handleExportWords}
+              onImportWords={handleImportWords}
+            />
+          </TabsContent>
+
+          {/* 设置标签 */}
+          <TabsContent value="settings" className="mt-4">
+            <SettingsPanel
+              settings={settings}
+              onUpdateSettings={updateSettings}
+              onResetSettings={resetSettings}
+            />
+          </TabsContent>
         </Tabs>
       </main>
 
@@ -426,6 +580,41 @@ export default function App() {
           </DialogFooter>
         </DialogContent>
       </Dialog>
+
+      {/* 继续学习对话框 */}
+      <Dialog open={showContinueDialog} onOpenChange={setShowContinueDialog}>
+        <DialogContent>
+          <DialogHeader>
+            <DialogTitle className="flex items-center gap-2">
+              <BookOpen className="w-5 h-5 text-blue-500" />
+              继续学习
+            </DialogTitle>
+            <DialogDescription>
+              检测到您有未完成的学习进度，是否继续上次的学习？
+            </DialogDescription>
+          </DialogHeader>
+          <DialogFooter>
+            <Button variant="outline" onClick={handleDiscardProgress}>
+              放弃进度
+            </Button>
+            <Button onClick={handleContinueStudy}>
+              继续学习
+            </Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
+
+      {/* 版本信息 */}
+      <div style="position: fixed; top: 0; left: 0; right: 0; background: white; border-bottom: 1px solid #e5e7eb; padding: 0.5rem; text-align: center; font-size: 0.75rem; color: #6b7280; z-index: 9999;">
+        版本: {VERSION_INFO.commit} | 分支: {VERSION_INFO.branch} | 构建时间: {new Date(VERSION_INFO.buildTime).toLocaleString()}
+      </div>
+      
+      {/* 页脚 */}
+      <footer className="bg-white border-t py-4 mt-auto">
+        <div className="max-w-4xl mx-auto px-4 text-center text-xs text-muted-foreground">
+          © 2026 记忆曲线背单词
+        </div>
+      </footer>
     </div>
   );
 }
